@@ -13,5 +13,8 @@
     <symbol id="open-menu-icon">
     <path d="M4.25 12.042h25.5m-25.5 9.916h25.5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     </symbol>
+    <symbol id="close-menu-icon">
+   <path d="m25.5 8.5-17 17M8.5 8.5l17 17" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
   </defs>
 </svg>
